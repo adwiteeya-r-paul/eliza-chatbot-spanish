@@ -1,5 +1,4 @@
-# eliza-chatbot implementing regular expressions
-
+# Spanish Chatbot - "ELIZA"
 This program is a chatbot inspired by the early natural language processing computer program "ELIZA" developed at MIT.
 The chatbot takes inputs from the user in Spanish, uses Regex to categorize the user input into any of the categories mentioned below and returns a corresponding output, also in Spanish. 
 
